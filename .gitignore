@@ -3,6 +3,8 @@ build
 .project
 *.kdev4*
 
+workspaces/xcode4/
+
 # Visual Studio
 *.sln
 *.ncb
@@ -11,7 +13,9 @@ build
 # Output
 bin/
 lib/
-
+doc/AssimpDoc_Html_generated/
+doc/AssimpDoc_Html.zip
+Makefile
 
 # Generated
 assimp.pc
